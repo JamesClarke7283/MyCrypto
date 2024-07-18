@@ -1,5 +1,5 @@
-from rand.base import RandomInteger
-from rand.simple import LinearCongruentialGenerator
+from src.rand.base import RandomInteger
+from src.rand.simple import LinearCongruentialGenerator
 import unittest
 
 
